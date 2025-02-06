@@ -1,1 +1,36 @@
+.form{
+    position: relative;
+    top: 20vw;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+}
 
+.logintxt{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.unameLabel{
+    position: relative;
+    left: 20%;
+}
+.unameForm{
+    position: relative;
+    left: 21%;
+}
+
+.pwordLabel{
+    position: relative;
+    left: 20%;
+}
+.passwordForm{
+    position: relative;
+    left: 21%;
+}
+
+.loginbtn{
+    position: relative;
+    left: 40%;
+}
